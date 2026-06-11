@@ -33,6 +33,6 @@
 晚上发给电脑端 Claw：
 
 ```text
-电脑端，读取 tasks/active 中分配给 desktop-claw 的任务。按任务票据执行，完成后提交结果并更新日志。
+电脑端，读取 tasks/active 中分配给 pc-claw 的任务。按任务票据执行，完成后提交结果并更新日志。
 ```
 
