@@ -24,15 +24,15 @@
 
 ## 每日用法
 
-早上发给管理员：
+早上发给 Kimi：
 
 ```text
-管理员，读取 my-ai-workbench。按 rules/workflow_rules.md 调度今日任务。除 rules/approval_policy.md 中必须确认的事项外，不要打扰我。每 2 小时只汇报阻塞、待确认和已完成产出。
+Kimi，读取 my-ai-workbench。按 rules/workflow_rules.md 调度今日任务。除 rules/approval_policy.md 中必须确认的事项外，不要打扰我。每 2 小时只汇报阻塞、待确认和已完成产出。
 ```
 
-晚上发给电脑端 Claw：
+晚上发给 PC-Claw：
 
 ```text
-电脑端，读取 tasks/active 中分配给 pc-claw 的任务。按任务票据执行，完成后提交结果并更新日志。
+PC-Claw，读取 tasks/active 中分配给 PC-Claw 的任务。按任务票据执行，完成后提交结果并更新日志。
 ```
 
